@@ -26,13 +26,14 @@ Here’s a quick peek at some of my favorite projects:
   🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
 
 - **[Masonry Image Gallery](https://jps-one.github.io/masonry-local-album/)**: A responsive, lazy-loading image gallery with a beautiful masonry grid layout  
- 🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
+  🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
 
-- **[Note Board](https://jps-one.github.io/note-board/)**: A classic note board 
- 🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
+- **[Note Board](https://jps-one.github.io/note-board/)**: A classic note board  
+  🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
 
-- **[CV Template](https://jps-one.github.io/cv-template/)**: Dynamic CV template
- 🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
+- **[CV Template](https://jps-one.github.io/cv-template/)**: Dynamic CV template  
+  🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
+
 
 
 ### 📫 Let's Connect
