@@ -22,7 +22,7 @@ Here’s a quick peek at some of my favorite projects:
 - **[NoteSong](https://notesong.netlify.app/)**: An intuitive and powerful web application designed for songwriters!  
   🅰️ Angular | 🟩 Node.js | 🍃 MongoDB
 
-- **[Personal Portfolio Template](https://jps-one.github.io/portfolio-template/)**: A personal portfolio template  
+- **[Personal Portfolio](https://jps-one.github.io/portfolio)**: My personal portfolio   
   🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
 
 - **[Masonry Image Gallery](https://jps-one.github.io/masonry-local-album/)**: A responsive, lazy-loading image gallery with a beautiful masonry grid layout  
