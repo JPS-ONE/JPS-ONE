@@ -18,7 +18,7 @@ I'm a versatile developer with experience in both **frontend** and **backend** t
 Here’s a quick peek at some of my favorite projects:
 
 
-- **[Travels e-commerce](https://viajesgruposreducidos.com/)**: E-commerce for a travel agency.
+- **[Travels e-commerce](https://viajesgruposreducidos.com/)**: E-commerce for a travel agency.   
   🟩 Vue | 🟦 Tailwind
 
 - **[NoteSong](https://notesong.netlify.app/)**: An intuitive and powerful web application designed for songwriters!  
