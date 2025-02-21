@@ -21,13 +21,13 @@ Here’s a quick peek at some of my favorite projects:
 - **[Travels e-commerce](https://viajesgruposreducidos.com/)**: E-commerce for a travel agency.   
   🟩 Vue | 🟦 Tailwind
 
-- **[NoteSong](https://notesong.netlify.app/)**: An intuitive and powerful web application designed for songwriters!  
+- **[NoteSong](https://app.notesong.com)**: An intuitive and powerful web application designed for songwriters!  
   🅰️ Angular | 🟩 Node.js | 🍃 MongoDB
 
-- **[Coming Soon Landing Page](https://jps-one.github.io/notesong/)**: A coming soon landing page for the NoteSong Web App  
+- **[Coming Soon Landing Page](https://notesong.com)**: A coming soon landing page for the NoteSong Web App  
   🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
 
-- **[Personal Portfolio](https://jps-one.github.io/portfolio)**: My personal portfolio   
+- **[Personal Portfolio](https://jps-dev.com)**: My personal portfolio   
   🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
 
 - **[Masonry Image Gallery](https://jps-one.github.io/masonry-local-album/)**: A responsive, lazy-loading image gallery with a beautiful masonry grid layout  
