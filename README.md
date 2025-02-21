@@ -24,7 +24,7 @@ Here’s a quick peek at some of my favorite projects:
 - **[NoteSong](https://app.notesong.com)**: An intuitive and powerful web application designed for songwriters!  
   🅰️ Angular | 🟩 Node.js | 🍃 MongoDB
 
-- **[Coming Soon Landing Page](https://notesong.com)**: A coming soon landing page for the NoteSong Web App  
+- **[NoteSong Landing Page](https://notesong.com)**: A coming soon landing page for the NoteSong Web App  
   🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
 
 - **[Personal Portfolio](https://jps-dev.com)**: My personal portfolio   
