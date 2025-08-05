@@ -19,15 +19,18 @@ Here’s a quick peek at some of my favorite projects:
 
 - **[Personal Portfolio](https://jps-dev.com)**: My personal portfolio   
   🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
+
+- **[Digital Agency Template](https://digital-agency-astro.netlify.app/)**: A modern, responsive template for digital agencies.  
+  🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | 🟦 Tailwind |⚡ JavaScript |🎨 Modern Design | 
   
 - **[Travels e-commerce](https://viajesgruposreducidos.com/)**: E-commerce for a travel agency.   
   🟩 Vue | 🟦 Tailwind
 
 - **[TripAlicante](https://tripalicante.com)** A travel agency website  
-  🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript |
+  🪐 Astro | 🟧 HTML5 | 🟦 Tailwind | ⚡ JavaScript |
   
-- **[ExporerCV](https://explorercv.com)**: A multilingual travel agency website.   
-  🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript | 🌐 Multilingual (i18n)
+- **[ExporerCV](https://explorercv.com)**: A multilingual travel agency website with a CMS for content management.   
+  🪐 Astro | 🟧 DaisyUI | 🟦 Tailwind | ⚡ JavaScript | 🌐 Multilingual (i18n) | 🟪 Decap CMS
   
 - **[NoteSong](https://app.notesong.com)**: An intuitive and powerful web application designed for songwriters!  
   🅰️ Angular | 🟩 Node.js | 🍃 MongoDB
