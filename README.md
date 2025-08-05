@@ -23,10 +23,10 @@ Here’s a quick peek at some of my favorite projects:
 - **[Travels e-commerce](https://viajesgruposreducidos.com/)**: E-commerce for a travel agency.   
   🟩 Vue | 🟦 Tailwind
 
-- **[TripAlicante.com](https://tripalicante.com)** A travel agency website
+- **[TripAlicante.com](https://tripalicante.com)** A travel agency website  
   🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript |
   
-- **[ExporerCV.com](https://explorercv.com)**: A multilingual travel agency website.  
+- **[ExporerCV.com](https://explorercv.com)**: A multilingual travel agency website.   
   🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript | 🌐 Multilingual (i18n)
   
 - **[NoteSong](https://app.notesong.com)**: An intuitive and powerful web application designed for songwriters!  
