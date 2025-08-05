@@ -17,24 +17,25 @@ I'm a versatile developer with experience in both **frontend** and **backend** t
 ### 🔥 Featured Projects
 Here’s a quick peek at some of my favorite projects:
 
-
+- **[Personal Portfolio](https://jps-dev.com)**: My personal portfolio   
+  🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
+  
 - **[Travels e-commerce](https://viajesgruposreducidos.com/)**: E-commerce for a travel agency.   
   🟩 Vue | 🟦 Tailwind
 
+- **[TripAlicante.com](https://tripalicante.com)** A travel agency website
+  🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript |
+  
+- **[ExporerCV.com](https://explorercv.com)**: A multilingual travel agency website.  
+  🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript | 🌐 Multilingual (i18n)
+  
 - **[NoteSong](https://app.notesong.com)**: An intuitive and powerful web application designed for songwriters!  
   🅰️ Angular | 🟩 Node.js | 🍃 MongoDB
 
 - **[NoteSong Landing Page](https://notesong.com)**: A coming soon landing page for the NoteSong Web App  
   🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
 
-- **[Personal Portfolio](https://jps-dev.com)**: My personal portfolio   
-  🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
 
-- **[Masonry Image Gallery](https://jps-one.github.io/masonry-local-album/)**: A responsive, lazy-loading image gallery with a beautiful masonry grid layout  
-  🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
-
-- **[Note Board](https://jps-one.github.io/note-board/)**: A classic note board  
-  🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
 
 
 
