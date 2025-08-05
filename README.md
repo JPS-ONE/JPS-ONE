@@ -15,7 +15,7 @@ I'm a versatile developer with experience in both **frontend** and **backend** t
 #### **Additional Skills** ⚙️
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat-square) ![Adobe Creative Suite](https://img.shields.io/badge/-Adobe%20Creative%20Suite-FF0000?logo=adobe-creative-cloud&logoColor=white&style=flat-square)
 ### 🔥 Featured Projects
-Here’s a quick peek at some of my favorite projects:
+Here’s a quick peek at some of my projects:
 
 - **[Personal Portfolio](https://jps-dev.com)**: My personal portfolio   
   🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
