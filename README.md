@@ -6,7 +6,7 @@
 I'm a versatile developer with experience in both **frontend** and **backend** technologies. Here’s my tech stack:
 
 #### **Frontend** 🌐
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square) ![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square) ![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
 
 
 #### **Backend** 🖥️
@@ -17,7 +17,7 @@ I'm a versatile developer with experience in both **frontend** and **backend** t
 ### 🔥 Featured Projects
 Here’s a quick peek at some of my projects:
 
-- **[Personal Portfolio](https://jps-dev.com)**: My personal portfolio   
+- **[Personal Portfolio V1](https://jps-dev.com)**: My personal portfolio (first version)
   🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
 
 - **[Digital Agency Template](https://digital-agency-astro.netlify.app/)**: A modern, responsive template for digital agencies.  
@@ -31,6 +31,9 @@ Here’s a quick peek at some of my projects:
   
 - **[ExporerCV](https://explorercv.com)**: A multilingual travel agency website with a CMS for content management.   
   🪐 Astro | 🟧 DaisyUI | 🟦 Tailwind | ⚡ JavaScript | 🌐 Multilingual (i18n) | 🟪 Decap CMS
+  
+  - **[Dental Clinic Landing](https://landing-clinica-dental.netlify.app/)**: Modern and responsive template for dental clinics.  
+  🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | 🟦 Tailwind |⚡ JavaScript |🎨 Modern Design | 
   
 - **[NoteSong](https://app.notesong.com)**: An intuitive and powerful web application designed for songwriters!  
   🅰️ Angular | 🟩 Node.js | 🍃 MongoDB
