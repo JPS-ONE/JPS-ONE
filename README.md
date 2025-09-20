@@ -29,7 +29,7 @@ Here’s a quick peek at some of my projects:
 - **[Digital Agency Template](https://digital-agency-astro.netlify.app/)**: A modern, responsive template for digital agencies.  
   🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | 🟦 Tailwind | ⚡ JavaScript | 🎨 Modern Design
 
-  - **[TripAlicante](https://tripalicante.com)**: A travel agency website  
+- **[TripAlicante](https://tripalicante.com)**: A travel agency website  
   🪐 Astro | 🟧 HTML5 | 🟦 Tailwind | ⚡ JavaScript  
 
 - **[Dental Clinic Landing](https://landing-clinica-dental.netlify.app/)**: Modern and responsive template for dental clinics.  
