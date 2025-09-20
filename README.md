@@ -17,36 +17,44 @@ I'm a versatile developer with experience in both **frontend** and **backend** t
 ### 🔥 Featured Projects
 Here’s a quick peek at some of my projects:
 
-- **[Personal Portfolio V1](https://jps-dev.com)**: My personal portfolio (first version)
-  🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
+
+# 📂 Portfolio
+
+---
+
+## 🚀 Landings
+- **[Personal Portfolio V1](https://jps-dev.com)**: My personal portfolio (first version)  
+  🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript  
 
 - **[Digital Agency Template](https://digital-agency-astro.netlify.app/)**: A modern, responsive template for digital agencies.  
-  🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | 🟦 Tailwind |⚡ JavaScript |🎨 Modern Design | 
-  
-- **[Travels e-commerce](https://viajesgruposreducidos.com/)**: E-commerce for a travel agency.   
-  🟩 Vue | 🟦 Tailwind
+  🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | 🟦 Tailwind | ⚡ JavaScript | 🎨 Modern Design
 
-- **[TripAlicante](https://tripalicante.com)** A travel agency website  
-  🪐 Astro | 🟧 HTML5 | 🟦 Tailwind | ⚡ JavaScript |
-  
-- **[ExporerCV](https://explorercv.com)**: A multilingual travel agency website with a CMS for content management.   
-  🪐 Astro | 🟧 DaisyUI | 🟦 Tailwind | ⚡ JavaScript | 🌐 Multilingual (i18n) | 🟪 Decap CMS
-  
-  - **[Dental Clinic Landing](https://landing-clinica-dental.netlify.app/)**: Modern and responsive template for dental clinics.  
-  🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | 🟦 Tailwind |⚡ JavaScript |🎨 Modern Design | 
-  
-- **[NoteSong](https://app.notesong.com)**: An intuitive and powerful web application designed for songwriters!  
-  🅰️ Angular | 🟩 Node.js | 🍃 MongoDB
+  - **[TripAlicante](https://tripalicante.com)**: A travel agency website  
+  🪐 Astro | 🟧 HTML5 | 🟦 Tailwind | ⚡ JavaScript  
+
+- **[Dental Clinic Landing](https://landing-clinica-dental.netlify.app/)**: Modern and responsive template for dental clinics.  
+  🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | 🟦 Tailwind | ⚡ JavaScript | 🎨 Modern Design  
 
 - **[NoteSong Landing Page](https://notesong.com)**: A coming soon landing page for the NoteSong Web App  
-  🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
+  🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript  
+
+---
+
+## 🛒 E-commerce
+- **[Travels e-commerce](https://viajesgruposreducidos.com/)**: E-commerce for a travel agency.  
+  🟩 Vue | 🟦 Tailwind  
+
+- **[ExporerCV](https://explorercv.com)**: A multilingual travel agency website with a CMS for content management.  
+  🪐 Astro | 🟧 DaisyUI | 🟦 Tailwind | ⚡ JavaScript | 🌐 Multilingual (i18n) | 🟪 Decap CMS  
+
+---
+
+## ⚙️ Web Apps
+- **[NoteSong](https://app.notesong.com)**: An intuitive and powerful web application designed for songwriters!  
+  🅰️ Angular | 🟩 Node.js | 🍃 MongoDB  
 
 - **[EstoicoaDiario](https://estoicoadiario.com)**: A minimalist website that generates daily Stoic quotes and features a blog exploring Stoic philosophy and books.  
-  🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript |
-
-
-
-
+  🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript  
 
 ### 📫 Let's Connect
  * [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jorge-pardo-semp/)
