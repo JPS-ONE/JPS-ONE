@@ -54,7 +54,9 @@ Here’s a quick peek at some of my projects:
   🅰️ Angular | 🟩 Node.js | 🍃 MongoDB  
 
 - **[EstoicoaDiario](https://estoicoadiario.com)**: A minimalist website that generates daily Stoic quotes and features a blog exploring Stoic philosophy and books.  
-  🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript  
+  🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
+
+---
 
 ### 📫 Let's Connect
  * [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jorge-pardo-semp/)
