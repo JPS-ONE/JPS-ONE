@@ -44,7 +44,7 @@ Here’s a quick peek at some of my projects:
 - **[Travels e-commerce](https://viajesgruposreducidos.com/)**: E-commerce for a travel agency.  
   🟩 Vue | 🟦 Tailwind  
 
-- **[ExporerCV](https://explorercv.com)**: A multilingual travel agency website with a CMS for content management.  
+- **[ExplorerCV](https://explorercv.com)**: A multilingual travel agency website with a CMS for content management.  
   🪐 Astro | 🟧 DaisyUI | 🟦 Tailwind | ⚡ JavaScript | 🌐 Multilingual (i18n) | 🟪 Decap CMS  
 
 ---
