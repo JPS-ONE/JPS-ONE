@@ -23,8 +23,8 @@ Here’s a quick peek at some of my projects:
 ---
 
 ## 🚀 Landings
-- **[Personal Portfolio V1](https://jps-dev.com)**: My personal portfolio (first version)  
-  🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript  
+- **[Personal Portfolio V2](https://jps-dev.com)**: My personal portfolio 
+  🪐 Astro | 🟦 Tailwind | ⚡ GSAP  
 
 - **[Digital Agency Template](https://digital-agency-astro.netlify.app/)**: A modern, responsive template for digital agencies.  
   🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | 🟦 Tailwind | ⚡ JavaScript | 🎨 Modern Design
@@ -36,6 +36,9 @@ Here’s a quick peek at some of my projects:
   🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | 🟦 Tailwind | ⚡ JavaScript | 🎨 Modern Design  
 
 - **[NoteSong Landing Page](https://notesong.com)**: A coming soon landing page for the NoteSong Web App  
+  🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
+  
+- **[Personal Portfolio V1](https://portfolio-jps-dev.netlify.app/)**: My personal portfolio (first version)  
   🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript  
 
 ---
