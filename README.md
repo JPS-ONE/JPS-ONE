@@ -23,7 +23,7 @@ Here’s a quick peek at some of my projects:
 ---
 
 ## 🚀 Landings
-- **[Personal Portfolio V2](https://jps-dev.com)**: My personal portfolio 
+- **[Personal Portfolio V2](https://jps-dev.com)**: My personal portfolio  
   🪐 Astro | 🟦 Tailwind | ⚡ GSAP  
 
 - **[Digital Agency Template](https://digital-agency-astro.netlify.app/)**: A modern, responsive template for digital agencies.  
