@@ -29,14 +29,11 @@ Here’s a quick peek at some of my projects:
 - **[Digital Agency Template](https://digital-agency-astro.netlify.app/)**: A modern, responsive template for digital agencies.  
   🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | 🟦 Tailwind | ⚡ JavaScript | 🎨 Modern Design
 
-- **[TripAlicante](https://tripalicante.com)**: A travel agency website  
-  🪐 Astro | 🟧 HTML5 | 🟦 Tailwind | ⚡ JavaScript  
+- **[TripAlicante](https://tripalicante.com)**: Multilingual travel website with integrated B2B booking and user management systems.  
+  🪐 Astro | 🟦 Tailwind | ⚡ JavaScript  |  🟩 Supabase  |  🌐 Multilingual (i18n)  
 
 - **[Dental Clinic Landing](https://landing-clinica-dental.netlify.app/)**: Modern and responsive template for dental clinics.  
   🪐 Astro | 🟧 HTML5 | 🎨 CSS3 | 🟦 Tailwind | ⚡ JavaScript | 🎨 Modern Design  
-
-- **[NoteSong Landing Page](https://notesong.com)**: A coming soon landing page for the NoteSong Web App  
-  🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript
   
 - **[Personal Portfolio V1](https://portfolio-jps-dev.netlify.app/)**: My personal portfolio (first version)  
   🟧 HTML5 | 🎨 CSS3 | ⚡ JavaScript  
@@ -53,7 +50,7 @@ Here’s a quick peek at some of my projects:
 ---
 
 ## ⚙️ Web Apps
-- **[NoteSong](https://app.notesong.com)**: An intuitive and powerful web application designed for songwriters!  
+- **[NoteSong](https://notesong.netlify.app/)**: An intuitive and powerful web application designed for songwriters!  
   🅰️ Angular | 🟩 Node.js | 🍃 MongoDB  
 
 - **[EstoicoaDiario](https://estoicoadiario.com)**: A minimalist website that generates daily Stoic quotes and features a blog exploring Stoic philosophy and books.  
